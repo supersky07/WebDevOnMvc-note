@@ -1,0 +1,18 @@
+# Summary
+
+* [重构简介](part1/README.md)
+	* [重构原则](part1/refactor_principle.md)
+	* [不友好代码](part1/ugly_code.md)
+	* [自测试](part1/self_test.md)
+* [重构手段](part2/READNE.md)
+	* [函数重组](part2/function_refactor.md)
+	* [特性搬移](part2/feature_move.md)
+	* [数据重组](part2/data_refactor.md)
+	* [简化表达式](part2/simplify_expression.md)
+	* [简化函数调用](part2/simplify_function_call.md)
+	* [处理概括关系](part2/deal_context.md)
+	* [大型重构](part2/large_refactor.md)
+* [重构总结](part3/READNE.md)
+	* [重构、复用与现实](part3/refactor_reuse.md)
+	* [重构工具](part3/refactor_tools.md)
+	* [总结](part3/summary.md)
